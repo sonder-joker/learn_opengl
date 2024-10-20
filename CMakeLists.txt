@@ -1,5 +1,6 @@
 cmake_minimum_required(VERSION 3.0)
 project(Glitter)
+set (CMAKE_CXX_STANDARD 20)
 
 option(GLFW_BUILD_DOCS OFF)
 option(GLFW_BUILD_EXAMPLES OFF)
