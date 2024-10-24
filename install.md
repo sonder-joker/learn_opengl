@@ -1,0 +1,1 @@
+sudo apt install libxrandr-dev libxinerama-dev libxcursor-dev libxi-dev libegl1-mesa-dev
